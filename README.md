@@ -7,29 +7,29 @@ Curated Claude Code plugins for skills, workflows, and productivity tools.
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add obra/superpowers-marketplace
+/plugin marketplace add adnandaut/superpowers-marketplace
 ```
 
 ## Available Plugins
 
 ### Superpowers (Core)
 
-**Description:** Core skills library with TDD, debugging, collaboration patterns, and proven techniques
+Description: Core skills library with TDD, debugging, collaboration patterns, and proven techniques
 
-**Categories:** Testing, Debugging, Collaboration, Meta
+Categories: Testing, Debugging, Collaboration, Meta
 
-**Install:**
+Install:
 ```bash
 /plugin install superpowers@superpowers-marketplace
 ```
 
-**What you get:**
+What you get:
 - 20+ battle-tested skills
 - `/brainstorm`, `/write-plan`, `/execute-plan` commands
 - Skills-search tool for discovery
 - SessionStart context injection
 
-**Repository:** https://github.com/obra/superpowers
+Repository: https://github.com/adnandaut/superpowers
 
 ---
 
@@ -48,8 +48,8 @@ superpowers-marketplace/
 
 ## Support
 
-- **Issues**: https://github.com/obra/superpowers-marketplace/issues
-- **Core Plugin**: https://github.com/obra/superpowers
+- Issues: https://github.com/adnandaut/superpowers-marketplace/issues
+- Core Plugin: https://github.com/adnandaut/superpowers
 
 ## License
 
